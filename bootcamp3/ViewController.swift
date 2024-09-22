@@ -14,6 +14,13 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    @IBAction func butonAlert(_ sender: Any) {
+        
+    }
+    
+    @IBAction func butonAction(_ sender: Any) {
+    }
+    @IBAction func butonOzel(_ sender: Any) {
+    }
 }
 
